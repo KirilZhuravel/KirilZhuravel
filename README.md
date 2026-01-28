@@ -35,11 +35,12 @@ A collection of assembly programs focusing on memory efficiency and CPU logic.
 * Contains optimized implementations of loops and conditional jumps.
 * Showcases understanding of physical addresses and memory offsets.
 
-#### 3. 🌐 [Ex (Legacy Web Project)](https://github.com/KirilZhuravel/Ex)
-> **Stack:** React • JavaScript • HTML/CSS
-A frontend web application built with React.
-* An early project demonstrating component-based architecture.
-* Focuses on UI rendering and state management basics.
+#### 3. 📱 [MAUI-Online-Store](https://github.com/KirilZhuravel/MAUI-Online-Store)
+> **Stack:** C# • .NET MAUI • XAML • MVVM
+A cross-platform mobile e-commerce application.
+* Built using **.NET MAUI** for running on Android and Windows.
+* Implements **MVVM** (Model-View-ViewModel) architectural pattern for clean code separation.
+* Features a responsive UI with product catalog, shopping cart logic, and XAML-based layouts.
 
 ---
 
