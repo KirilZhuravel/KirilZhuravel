@@ -46,4 +46,3 @@ A frontend web application built with React.
 ### 🔭 What's Next?
 Currently working on a **Graph-based Decryption Tool** in Java and porting a **Mobile Application** to .NET MAUI.
 
-📫 **Contact:** [Link to LinkedIn or Email]
